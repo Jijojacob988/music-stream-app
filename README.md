@@ -1,4 +1,4 @@
-Full Stack Music Streaming App
+# **Full Stack Music Streaming App**
 
 This is a full-stack **music streaming application** built using **React, Node.js, Express, and MongoDB**. It allows users to browse albums, play songs, manage playlists, and upload new music through an admin panel.
 
